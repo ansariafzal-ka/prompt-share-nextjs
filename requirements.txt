@@ -1,0 +1,9 @@
+-author name
+-email name
+-prompt
+-tag
+-createdAt //Auto created
+
+APIs
+GET ALL Prompts /api/v1/prompt
+POST create Prompt /api/v1/prompt
