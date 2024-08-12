@@ -1,10 +1,11 @@
-import NavBar from "@/components/ui/NavBar";
-import React from "react";
+import Content from "@/components/Content";
+import Hero from "@/components/Hero";
 
 const Home = () => {
   return (
     <main className="w-full h-screen">
-      <NavBar />
+      <Hero />
+      <Content />
     </main>
   );
 };
